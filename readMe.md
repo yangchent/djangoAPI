@@ -1,4 +1,3 @@
 ### Django Api 
 
-django Chapter 5: Blog Api
-
+django Chapter 7: User Authentication
