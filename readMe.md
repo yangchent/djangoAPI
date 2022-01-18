@@ -1,4 +1,4 @@
 ### Django Api 
 
-django Chapter 8: viewset and routers
-page 
+django Chapter 9: Schemas and Documentation
+page 132
