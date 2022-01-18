@@ -1,4 +1,4 @@
 ### Django Api 
 
-django Chapter 7: User Authentication
-page 95
+django Chapter 8: viewset and routers
+page 
